@@ -79,15 +79,15 @@ module.exports = (grunt) ->
         options:
           livereload: '<%= connect.options.livereload %>'
         files: [
-          '<%= config.dist %>/{,*/}*.html',
-          '<%= config.dist %>/assets/{,*/}*.css',
-          '<%= config.dist %>/assets/{,*/}*.js',
-          '<%= config.dist %>/assets/{,*/}*.{png,jpg,jpeg,gif,webp,svg}'
+          '<%= config.dist %>/**/*.html',
+          '<%= config.dist %>/assets/**/*.css',
+          '<%= config.dist %>/assets/**/*.js',
+          '<%= config.dist %>/assets/**/*.{png,jpg,jpeg,gif,webp,svg}'
         ]
 
     connect:
       options:
-        port: 9000
+        port: 3232
         livereload: 35729
         hostname: 'localhost'
       livereload:

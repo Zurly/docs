@@ -4,14 +4,14 @@ title: Getting started
 order: 0
 ---
 
-Getting started
+Getting Started With Zurly
 =====
 
-### What's in the box
+### What's in the campaign?
 
 ![Spark Core in box]({{assets}}/images/core-in-box.jpg)
 
-Congratulations on being the owner of a brand new Spark Core! Go ahead, open the box, and let's talk about what you see. Your box should include:
+Congratulations on being the owner of a brand new Zurly Campaign! Go ahead, open the box, and let's talk about what you see. Your box should include:
 
 - *One Spark Core*. The reason you bought this thing. We'll dig in more here in a bit.
 - *One breadboard*. A breadboard makes it easy to wire components to the Core without solder. Internally, the rows are electrically connected horizontally, and the "rails" along the edges are connected vertically. See the [breadboard article on Wikipedia](http://en.wikipedia.org/wiki/Breadboard) for more information.
